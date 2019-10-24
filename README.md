@@ -33,5 +33,6 @@
   <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(21).pdf" style="text-decoration:none;">Concepts in Particle Physics: A Concise Introduction to the Standard Model</a></b></li>
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(22).pdf" style="text-decoration:none;">Statistical Physics of Particles </a></b></li>  
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(23).rar" style="text-decoration:none;">Who Cares about Particle Physics?: Making Sense of the Higgs Boson, the Large Hadron Collider, and CERN</a></b></li>
- 
+   <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(24).pdf" style="text-decoration:none;">Deep Down Things: The Breathtaking Beauty of Particle Physics</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(25).pdf" style="text-decoration:none;">Particle Accelerator Physics </a></b></li> 
 </ul>
