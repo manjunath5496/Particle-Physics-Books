@@ -23,7 +23,15 @@
                 <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(14).pdf" style="text-decoration:none;">The Particle Odyssey: A Journey to the Heart of Matter </a></b></li>  
          <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(15).pdf" style="text-decoration:none;">Neutrinos in Particle Physics, Astronomy and Cosmology</a></b></li>
  
+<li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(16).pdf" style="text-decoration:none;">Kinematical Theory of Spinning Particles: Classical and Quantum Mechanical Formalism of Elementary Particles</a></b></li>  
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(17).pdf" style="text-decoration:none;">Particle Physics</a></b></li>
  
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(18).pdf" style="text-decoration:none;">Particle Physics on the Eve of LHC</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(19).pdf" style="text-decoration:none;">Particles and Fundamental Interactions: An Introduction to Particle Physics </a></b></li>  
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(20).pdf" style="text-decoration:none;">The Trouble with Physics: The Rise of String Theory, the Fall of a Science, and What Comes Next</a></b></li>
  
-
+  <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(21).pdf" style="text-decoration:none;">Concepts in Particle Physics: A Concise Introduction to the Standard Model</a></b></li>
+                <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(22).pdf" style="text-decoration:none;">Statistical Physics of Particles </a></b></li>  
+         <li><b><a target="_blank" href="https://github.com/manjunath5496/Particle-Physics-Books/blob/master/pph(23).rar" style="text-decoration:none;">Who Cares about Particle Physics?: Making Sense of the Higgs Boson, the Large Hadron Collider, and CERN</a></b></li>
+ 
 </ul>
